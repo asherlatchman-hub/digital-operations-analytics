@@ -1,0 +1,16 @@
+incident_id,service,opened_at,priority,status,affected_users,priority_score,issue_type,summary,record_origin
+INC-00008,Payroll & HR Portal,2026-10-26 10:35:00,P2,Resolved,6834,76.5,error_rate,Error rate anomaly; previous simulated dependency alert,Separate synthetic incident export
+INC-00012,Payroll & HR Portal,2026-10-26 16:30:00,P2,Resolved,2975,74.8,error_rate,Error rate anomaly in payroll service,Separate synthetic incident export
+INC-00029,Payroll & HR Portal,2026-11-03 16:30:00,P2,Open,2992,73.8,error_rate,Error rate anomaly in payroll service,Separate synthetic incident export
+SIM-001,Supply Chain ERP,2026-10-20 13:10:00,P3,Resolved,540,44.0,latency,Slower responses during afternoon peak,Additional synthetic sample
+SIM-002,IT Service Desk,2026-10-21 11:45:00,P4,Resolved,200,23.0,latency,Minor response slowdown,Additional synthetic sample
+SIM-003,Engineering PLM,2026-10-22 09:40:00,P3,Resolved,780,48.0,error_rate,Intermittent request errors,Additional synthetic sample
+SIM-004,Customer Support CRM,2026-10-24 15:30:00,P3,Resolved,320,42.0,latency,Slow customer record retrieval,Additional synthetic sample
+SIM-005,Identity Gateway (SSO),2026-10-26 10:15:00,P2,Resolved,1750,71.0,error_rate,Temporary sign-in errors,Additional synthetic sample
+SIM-006,Secure File Transfer,2026-10-27 12:05:00,P3,Resolved,175,43.0,latency,Delayed file transfers,Additional synthetic sample
+SIM-007,Supply Chain ERP,2026-10-29 14:20:00,P3,Resolved,610,48.0,error_rate,Intermittent request failures,Additional synthetic sample
+SIM-008,Test Data Lake,2026-10-30 08:00:00,P4,Resolved,80,25.0,latency,Slow test data refresh,Additional synthetic sample
+SIM-009,IT Service Desk,2026-11-01 10:30:00,P3,Resolved,460,45.0,error_rate,Search errors in ticket tool,Additional synthetic sample
+SIM-010,Engineering PLM,2026-11-03 15:15:00,P2,Open,1498,72.0,memory,Elevated memory usage,Additional synthetic sample
+SIM-011,Customer Support CRM,2026-11-02 13:25:00,P4,Resolved,110,28.0,latency,Brief latency increase,Additional synthetic sample
+SIM-012,Secure File Transfer,2026-10-31 11:55:00,P3,Resolved,230,47.0,error_rate,Some transfers failed,Additional synthetic sample

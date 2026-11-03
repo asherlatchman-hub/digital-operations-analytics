@@ -1,0 +1,121 @@
+date,service,team,users,requests,avg_latency_ms,error_rate_pct,error_slo_pct
+2026-10-20,Engineering PLM,Engineering,3200,14666,548.1,0.28,1.5
+2026-10-20,Payroll & HR Portal,HR,8500,38038,320.4,0.23,1.0
+2026-10-20,Identity Gateway (SSO),Identity & Access,9000,37723,58.4,0.22,1.0
+2026-10-20,Secure File Transfer,IT Platform Services,1800,11488,146.8,0.2,1.0
+2026-10-20,Supply Chain ERP,ERP Platform,2500,13354,311.3,0.16,1.5
+2026-10-20,Customer Support CRM,Business Applications,1200,8352,258.3,0.31,1.5
+2026-10-20,Test Data Lake,Data Platform,400,6138,582.8,0.16,2.0
+2026-10-20,IT Service Desk,Service Management,9000,38339,180.5,0.28,1.5
+2026-10-21,Engineering PLM,Engineering,3200,14602,529.9,0.34,1.5
+2026-10-21,Payroll & HR Portal,HR,8500,36428,295.9,0.3,1.0
+2026-10-21,Identity Gateway (SSO),Identity & Access,9000,37848,43.4,0.26,1.0
+2026-10-21,Secure File Transfer,IT Platform Services,1800,9501,95.9,0.1,1.0
+2026-10-21,Supply Chain ERP,ERP Platform,2500,11689,292.3,0.2,1.5
+2026-10-21,Customer Support CRM,Business Applications,1200,8082,250.6,0.17,1.5
+2026-10-21,Test Data Lake,Data Platform,400,5060,601.6,0.25,2.0
+2026-10-21,IT Service Desk,Service Management,9000,40794,216.6,0.17,1.5
+2026-10-22,Engineering PLM,Engineering,3200,14979,539.3,0.21,1.5
+2026-10-22,Payroll & HR Portal,HR,8500,38859,297.3,0.32,1.0
+2026-10-22,Identity Gateway (SSO),Identity & Access,9000,40384,57.3,0.32,1.0
+2026-10-22,Secure File Transfer,IT Platform Services,1800,9125,109.3,0.11,1.0
+2026-10-22,Supply Chain ERP,ERP Platform,2500,12014,318.8,0.31,1.5
+2026-10-22,Customer Support CRM,Business Applications,1200,6535,256.9,0.18,1.5
+2026-10-22,Test Data Lake,Data Platform,400,5201,517.3,0.35,2.0
+2026-10-22,IT Service Desk,Service Management,9000,38524,185.9,0.12,1.5
+2026-10-23,Engineering PLM,Engineering,3200,15218,515.7,0.13,1.5
+2026-10-23,Payroll & HR Portal,HR,8500,37820,295.3,0.16,1.0
+2026-10-23,Identity Gateway (SSO),Identity & Access,9000,39524,65.0,0.2,1.0
+2026-10-23,Secure File Transfer,IT Platform Services,1800,9706,108.6,0.26,1.0
+2026-10-23,Supply Chain ERP,ERP Platform,2500,14157,300.4,0.23,1.5
+2026-10-23,Customer Support CRM,Business Applications,1200,6799,249.3,0.13,1.5
+2026-10-23,Test Data Lake,Data Platform,400,4331,585.3,0.12,2.0
+2026-10-23,IT Service Desk,Service Management,9000,37737,240.3,0.15,1.5
+2026-10-24,Engineering PLM,Engineering,3200,15805,522.6,0.22,1.5
+2026-10-24,Payroll & HR Portal,HR,8500,38853,245.4,0.19,1.0
+2026-10-24,Identity Gateway (SSO),Identity & Access,9000,39523,104.6,0.31,1.0
+2026-10-24,Secure File Transfer,IT Platform Services,1800,9249,170.1,0.23,1.0
+2026-10-24,Supply Chain ERP,ERP Platform,2500,14576,297.9,0.31,1.5
+2026-10-24,Customer Support CRM,Business Applications,1200,7283,265.1,0.2,1.5
+2026-10-24,Test Data Lake,Data Platform,400,3807,556.7,0.18,2.0
+2026-10-24,IT Service Desk,Service Management,9000,39340,205.3,0.15,1.5
+2026-10-25,Engineering PLM,Engineering,3200,14307,518.2,0.3,1.5
+2026-10-25,Payroll & HR Portal,HR,8500,37313,314.4,0.18,1.0
+2026-10-25,Identity Gateway (SSO),Identity & Access,9000,40017,109.4,0.27,1.0
+2026-10-25,Secure File Transfer,IT Platform Services,1800,10460,183.3,0.23,1.0
+2026-10-25,Supply Chain ERP,ERP Platform,2500,13157,353.7,0.22,1.5
+2026-10-25,Customer Support CRM,Business Applications,1200,9469,219.2,0.34,1.5
+2026-10-25,Test Data Lake,Data Platform,400,4672,577.1,0.21,2.0
+2026-10-25,IT Service Desk,Service Management,9000,40410,149.4,0.2,1.5
+2026-10-26,Engineering PLM,Engineering,3200,14978,571.5,0.35,1.5
+2026-10-26,Payroll & HR Portal,HR,8500,29336,236.3,1.82,1.0
+2026-10-26,Identity Gateway (SSO),Identity & Access,9000,40876,103.8,0.17,1.0
+2026-10-26,Secure File Transfer,IT Platform Services,1800,9899,127.9,0.23,1.0
+2026-10-26,Supply Chain ERP,ERP Platform,2500,13465,270.0,0.23,1.5
+2026-10-26,Customer Support CRM,Business Applications,1200,8886,270.2,0.17,1.5
+2026-10-26,Test Data Lake,Data Platform,400,5464,554.6,0.21,2.0
+2026-10-26,IT Service Desk,Service Management,9000,39312,175.1,0.33,1.5
+2026-10-27,Engineering PLM,Engineering,3200,16511,573.3,0.29,1.5
+2026-10-27,Payroll & HR Portal,HR,8500,35992,287.7,0.24,1.0
+2026-10-27,Identity Gateway (SSO),Identity & Access,9000,39392,72.2,0.22,1.0
+2026-10-27,Secure File Transfer,IT Platform Services,1800,11433,163.2,0.13,1.0
+2026-10-27,Supply Chain ERP,ERP Platform,2500,12087,330.2,0.23,1.5
+2026-10-27,Customer Support CRM,Business Applications,1200,7667,310.9,0.36,1.5
+2026-10-27,Test Data Lake,Data Platform,400,4085,531.3,0.31,2.0
+2026-10-27,IT Service Desk,Service Management,9000,39627,163.4,0.17,1.5
+2026-10-28,Engineering PLM,Engineering,3200,16859,509.2,0.18,1.5
+2026-10-28,Payroll & HR Portal,HR,8500,37278,285.6,0.19,1.0
+2026-10-28,Identity Gateway (SSO),Identity & Access,9000,40582,85.0,0.03,1.0
+2026-10-28,Secure File Transfer,IT Platform Services,1800,10695,132.7,0.2,1.0
+2026-10-28,Supply Chain ERP,ERP Platform,2500,14547,352.3,0.34,1.5
+2026-10-28,Customer Support CRM,Business Applications,1200,6966,247.8,0.38,1.5
+2026-10-28,Test Data Lake,Data Platform,400,4894,575.7,0.14,2.0
+2026-10-28,IT Service Desk,Service Management,9000,38403,153.5,0.29,1.5
+2026-10-29,Engineering PLM,Engineering,3200,17083,503.6,0.2,1.5
+2026-10-29,Payroll & HR Portal,HR,8500,36964,278.5,0.3,1.0
+2026-10-29,Identity Gateway (SSO),Identity & Access,9000,40344,79.0,0.1,1.0
+2026-10-29,Secure File Transfer,IT Platform Services,1800,11016,161.8,0.09,1.0
+2026-10-29,Supply Chain ERP,ERP Platform,2500,11825,291.5,0.15,1.5
+2026-10-29,Customer Support CRM,Business Applications,1200,9124,241.5,0.23,1.5
+2026-10-29,Test Data Lake,Data Platform,400,3102,561.7,0.15,2.0
+2026-10-29,IT Service Desk,Service Management,9000,40703,178.7,0.07,1.5
+2026-10-30,Engineering PLM,Engineering,3200,15340,554.1,0.14,1.5
+2026-10-30,Payroll & HR Portal,HR,8500,35926,275.4,0.26,1.0
+2026-10-30,Identity Gateway (SSO),Identity & Access,9000,40064,58.0,0.18,1.0
+2026-10-30,Secure File Transfer,IT Platform Services,1800,11648,161.8,0.22,1.0
+2026-10-30,Supply Chain ERP,ERP Platform,2500,13101,317.8,0.4,1.5
+2026-10-30,Customer Support CRM,Business Applications,1200,7871,212.4,0.29,1.5
+2026-10-30,Test Data Lake,Data Platform,400,5949,576.9,0.1,2.0
+2026-10-30,IT Service Desk,Service Management,9000,40403,195.5,0.37,1.5
+2026-10-31,Engineering PLM,Engineering,3200,17060,515.7,0.32,1.5
+2026-10-31,Payroll & HR Portal,HR,8500,36668,274.5,0.22,1.0
+2026-10-31,Identity Gateway (SSO),Identity & Access,9000,39504,125.2,0.2,1.0
+2026-10-31,Secure File Transfer,IT Platform Services,1800,8704,111.4,0.37,1.0
+2026-10-31,Supply Chain ERP,ERP Platform,2500,12068,338.1,0.2,1.5
+2026-10-31,Customer Support CRM,Business Applications,1200,6598,282.7,0.19,1.5
+2026-10-31,Test Data Lake,Data Platform,400,4612,566.7,0.07,2.0
+2026-10-31,IT Service Desk,Service Management,9000,39640,178.4,0.33,1.5
+2026-11-01,Engineering PLM,Engineering,3200,17124,552.1,0.33,1.5
+2026-11-01,Payroll & HR Portal,HR,8500,36277,261.0,0.14,1.0
+2026-11-01,Identity Gateway (SSO),Identity & Access,9000,39741,65.3,0.29,1.0
+2026-11-01,Secure File Transfer,IT Platform Services,1800,11208,124.6,0.21,1.0
+2026-11-01,Supply Chain ERP,ERP Platform,2500,14419,307.2,0.22,1.5
+2026-11-01,Customer Support CRM,Business Applications,1200,9120,240.8,0.37,1.5
+2026-11-01,Test Data Lake,Data Platform,400,3351,605.5,0.31,2.0
+2026-11-01,IT Service Desk,Service Management,9000,40362,162.0,0.25,1.5
+2026-11-02,Engineering PLM,Engineering,3200,15607,533.0,0.2,1.5
+2026-11-02,Payroll & HR Portal,HR,8500,36245,295.3,0.3,1.0
+2026-11-02,Identity Gateway (SSO),Identity & Access,9000,38937,56.5,0.26,1.0
+2026-11-02,Secure File Transfer,IT Platform Services,1800,11829,150.5,0.08,1.0
+2026-11-02,Supply Chain ERP,ERP Platform,2500,14607,307.7,0.1,1.5
+2026-11-02,Customer Support CRM,Business Applications,1200,6464,241.6,0.21,1.5
+2026-11-02,Test Data Lake,Data Platform,400,5778,554.1,0.16,2.0
+2026-11-02,IT Service Desk,Service Management,9000,40759,189.8,0.13,1.5
+2026-11-03,Engineering PLM,Engineering,3200,17448,545.2,1.74,1.5
+2026-11-03,Payroll & HR Portal,HR,8500,28784,227.1,2.45,1.0
+2026-11-03,Identity Gateway (SSO),Identity & Access,9000,39555,91.6,0.13,1.0
+2026-11-03,Secure File Transfer,IT Platform Services,1800,9367,150.7,0.17,1.0
+2026-11-03,Supply Chain ERP,ERP Platform,2500,14885,304.7,0.1,1.5
+2026-11-03,Customer Support CRM,Business Applications,1200,7770,280.0,0.26,1.5
+2026-11-03,Test Data Lake,Data Platform,400,4365,576.6,0.16,2.0
+2026-11-03,IT Service Desk,Service Management,9000,39645,194.1,0.18,1.5
