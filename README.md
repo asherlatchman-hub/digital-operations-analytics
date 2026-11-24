@@ -1,5 +1,9 @@
 # Digital Operations Analytics Dashboard
 
+**Live dashboard:** https://digital-operations-analytics-mkvuda2epwvukvs7vbuezw.streamlit.app/
+
+_Hosted free on Streamlit Community Cloud. If the app has been idle it may show a "wake up" button; it takes about 30 seconds to start._
+
 A Python and SQL project for exploring IT service performance, incident trends and operational KPIs. It combines Pandas data preparation, SQLite queries and a Streamlit dashboard.
 
 **Data:** The project uses synthetic data from eight fictional business applications. It is not connected to live services or employer systems.
